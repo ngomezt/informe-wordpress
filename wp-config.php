@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'WP_SEMINARIO');
+define('DB_NAME', 'seminario_wp_db');
 
 /** MySQL database username */
-define('DB_USER', 'USR_WP_SEMINARIO');
+define('DB_USER', 'seminario_wp_usr');
 
 /** MySQL database password */
-define('DB_PASSWORD', '1234');
+define('DB_PASSWORD', 'SmpDb34$');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
