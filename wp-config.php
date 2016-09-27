@@ -29,7 +29,7 @@ define('DB_USER', 'seminario_wp_usr');
 define('DB_PASSWORD', 'SmpDb34$');
 
 /** MySQL hostname */
-define('DB_HOST', '172.30.44.255');
+define('DB_HOST', '172.30.79.233');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
